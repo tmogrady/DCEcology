@@ -9,6 +9,7 @@ View(surveys)
 head(surveys)
 str(surveys)
 ?str()
+#we need a comment here
 
 str(surveys)
 
